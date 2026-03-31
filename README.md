@@ -31,3 +31,14 @@ agentic-chatbot-FastAPI/
 │── backend.py
 │── .env
 │── .gitignore
+
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the repository
+
+git clone https://github.com/datasciencejourney/AI-Chatbot-Agent.git
+
+cd AI-Chatbot-Agent
