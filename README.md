@@ -18,8 +18,9 @@ An intelligent, production-ready AI chatbot agent built using Large Language Mod
 
 ### 🔹 Chatbot Interaction
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/818bc056-141f-4bbc-aae8-b6e0bfb6aaa8" />
+<img width="960" height="481" alt="image" src="https://github.com/user-attachments/assets/74f4fd9a-47b0-4694-9ab0-54bb4d2edd66" />
 
+<img width="960" height="481" alt="image" src="https://github.com/user-attachments/assets/9c8b9122-6ed4-409e-a119-01112d6d5ae3" />
 
 ---
 
