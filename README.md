@@ -20,6 +20,8 @@ An intelligent, production-ready AI chatbot agent built using Large Language Mod
 
 <img width="960" height="481" alt="image" src="https://github.com/user-attachments/assets/74f4fd9a-47b0-4694-9ab0-54bb4d2edd66" />
 
+
+
 <img width="960" height="481" alt="image" src="https://github.com/user-attachments/assets/9c8b9122-6ed4-409e-a119-01112d6d5ae3" />
 
 ---
@@ -48,42 +50,39 @@ An intelligent, production-ready AI chatbot agent built using Large Language Mod
 
 ---
 
-## 📁 Project Structure
-
-
-agentic-chatbot-FastAPI/
-│── main.py # FastAPI app
-│── ai-agent.py # Agent logic
-│── requirements.txt
-│── .env # API keys (ignored)
-│── .gitignore
-│── assets/ # Screenshots & diagrams
-│── README.md
-
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/datasciencejourney/AI-Chatbot-Agent.git
 cd AI-Chatbot-Agent
-2. Create virtual environment
+```
+
+### 2. Create virtual environment
+```bash
 python -m venv .venv
 .venv\Scripts\activate
-3. Install dependencies
+```
+### 3. Install dependencies
+```bash
 pip install -r requirements.txt
-4. Configure environment variables
+```
+
+### 4. Configure environment variables
 
 Create a .env file:
-
+```bash
 OPENAI_API_KEY=your_key_here
 GROQ_API_KEY=your_key_here
 TAVILY_API_KEY=your_key_here
-5. Run the application
+```
+
+### 5. Run the application
+```bash
 uvicorn main:app --reload
-📡 API Endpoint
+```
+
+## 📡 API Endpoint
 POST /chat
 
 Request:
@@ -97,24 +96,28 @@ Response:
 {
   "response": "AI is evolving rapidly with advancements in..."
 }
-🧪 Example Use Cases
+
+## 🧪 Example Use Cases
 🔹 AI-powered assistant
 🔹 Research automation
 🔹 Real-time web-augmented Q&A
 🔹 Backend for AI SaaS products
-🔐 Security Best Practices
+
+## 🔐 Security Best Practices
 API keys stored securely in .env
 .env excluded via .gitignore
 No secrets exposed in codebase
-🚀 Future Improvements
+
+## 🚀 Future Improvements
 🔹 Add frontend (React / Streamlit)
 🔹 Conversation memory (RAG / vector DB)
 🔹 Multi-agent workflows
 🔹 Deployment (AWS / GCP / Docker)
-👤 Author
 
-datasciencejourney
+##👤 Author
 
-⭐ If you found this useful
+### DataScienceJourney
+### Feel feel to reach out @lovelynarenderramchandani@gmail.com
 
-Give it a ⭐ and feel free to contribute!
+##⭐ If you found this useful
+##Give it a ⭐ and feel free to contribute!
