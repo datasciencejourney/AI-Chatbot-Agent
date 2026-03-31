@@ -114,10 +114,10 @@ No secrets exposed in codebase
 🔹 Multi-agent workflows
 🔹 Deployment (AWS / GCP / Docker)
 
-##👤 Author
+## 👤 Author
 
 ### DataScienceJourney
 ### Feel feel to reach out @lovelynarenderramchandani@gmail.com
 
-##⭐ If you found this useful
-##Give it a ⭐ and feel free to contribute!
+## ⭐ If you found this useful
+## Give it a ⭐ and feel free to contribute!
