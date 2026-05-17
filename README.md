@@ -1,22 +1,22 @@
-# 🤖 AI Chatbot Agent (LLM + FastAPI + Tool Calling)
+# AI Chatbot Agent (LLM + FastAPI + Tool Calling)
 
 An intelligent, production-ready AI chatbot agent built using Large Language Models (LLMs) with tool-calling capabilities. This project demonstrates real-world applications of LLMs including reasoning, web search, and modular agent design.
 
 ---
 
-## 🌟 Why this project stands out
+## Why this project stands out
 
-- ✅ Built using **Agent-based architecture (ReAct paradigm)**
-- ✅ Integrates **LLMs + external tools (Tavily Search)**
-- ✅ Designed like a **real production backend (FastAPI)**
-- ✅ Clean, scalable, and modular codebase
-- ✅ Demonstrates **applied AI engineering skills** (not just theory)
+- Built using **Agent-based architecture (ReAct paradigm)**
+- Integrates **LLMs + external tools (Tavily Search)**
+- Designed like a **real production backend (FastAPI)**
+- Clean, scalable, and modular codebase
+- Demonstrates **applied AI engineering skills** (not just theory)
 
 ---
 
-## 🎥 Demo
+## Demo
 
-### 🔹 Chatbot Interaction
+### Chatbot Interaction
 
 <img width="960" height="481" alt="image" src="https://github.com/user-attachments/assets/74f4fd9a-47b0-4694-9ab0-54bb4d2edd66" />
 
@@ -38,7 +38,7 @@ An intelligent, production-ready AI chatbot agent built using Large Language Mod
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category        | Tools Used |
 |----------------|-----------|
@@ -50,7 +50,7 @@ An intelligent, production-ready AI chatbot agent built using Large Language Mod
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 ```bash
@@ -82,7 +82,7 @@ TAVILY_API_KEY=your_key_here
 uvicorn main:app --reload
 ```
 
-## 📡 API Endpoint
+## API Endpoint
 POST /chat
 
 Request:
@@ -97,24 +97,24 @@ Response:
   "response": "AI is evolving rapidly with advancements in..."
 }
 
-## 🧪 Example Use Cases
+## Example Use Cases
 🔹 AI-powered assistant
 🔹 Research automation
 🔹 Real-time web-augmented Q&A
 🔹 Backend for AI SaaS products
 
-## 🔐 Security Best Practices
+## Security Best Practices
 API keys stored securely in .env
 .env excluded via .gitignore
 No secrets exposed in codebase
 
-## 🚀 Future Improvements
+## Future Improvements
 🔹 Add frontend (React / Streamlit)
 🔹 Conversation memory (RAG / vector DB)
 🔹 Multi-agent workflows
 🔹 Deployment (AWS / GCP / Docker)
 
-## 👤 Author
+## Author
 
 ### DataScienceJourney
 ### Feel feel to reach out @lovelynarenderramchandani@gmail.com
